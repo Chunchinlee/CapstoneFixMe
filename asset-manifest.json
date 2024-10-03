@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CapstoneFixMe/static/css/main.736ece18.css",
+    "main.js": "/CapstoneFixMe/static/js/main.d691ce8e.js",
+    "static/media/background.png": "/CapstoneFixMe/static/media/background.923b28ac7c39b1f3fca8.png",
+    "static/media/WindowsFont.ttf": "/CapstoneFixMe/static/media/WindowsFont.1cbbbd75409adc7cc946.ttf",
+    "static/media/Fixme.png": "/CapstoneFixMe/static/media/Fixme.7a959bdad88a2cb98d6f.png",
+    "index.html": "/CapstoneFixMe/index.html",
+    "main.736ece18.css.map": "/CapstoneFixMe/static/css/main.736ece18.css.map",
+    "main.d691ce8e.js.map": "/CapstoneFixMe/static/js/main.d691ce8e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.736ece18.css",
+    "static/js/main.d691ce8e.js"
+  ]
+}
